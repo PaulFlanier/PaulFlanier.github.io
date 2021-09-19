@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Raven</title>
+        <link href="./resources/css/index.css" rel="stylesheet">
+    </head>
+    <body>
+        <!-- Navbar section -->
+        <nav class="navbar">
+            <ul>
+                <li><a class="green" href="">My Website</a></li>
+                <li><a href="">Me</a></li>
+                <li><a href="">Passerby thought</a></li>
+                <li><a href="">Spot we met</a></li>
+            </ul>
+        </nav>
+
+        <!-- Banner section -->
+        <header>
+            <img id="imgRaven" src="./resources/images/WhereDoWeWannaGo_MoritzRenner_QF.jpg" alt="">
+            <button class="buttonRaven bold">Poem</button>
+        </header>
+        
+        <!-- Poem section -->
+        <article class="poem bold">
+            <p>Raven Fly into the Light</p>
+            <p>Raven Fly into the Sky</p>
+            <p>Raven Fly</p>
+            <p>Still when You´re Dark</p>
+            <p>Raven Fly</p>
+            <p>This is a Spark</p>
+        </article>
+    </body>
+</html>
